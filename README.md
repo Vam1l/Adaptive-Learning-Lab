@@ -1,9 +1,19 @@
 # Adaptive Learning Lab
 
+### [🚀 Launch the Free Math Worksheet App](https://vam1l.github.io/Adaptive-Learning-Lab/)
+
+**For parents and homeschoolers:** Click **Launch the Free Math Worksheet App** above. No GitHub account, installation, or subscription is required. Select a grade, administer a short skill check, and generate printable practice worksheets and answer keys.
+
+> **Early alpha:** The tool is for math fluency and targeted practice, not a validated diagnostic assessment or replacement for a complete math curriculum. Student scores are stored locally in your browser; use a nickname and export backups to avoid losing progress.
+
+**Website:** https://vam1l.github.io/Adaptive-Learning-Lab/
+
+---
+
 An open-source, local-first parent-guided mathematics **fluency and prerequisite-remediation** prototype. Intended to complement, not replace, conceptual math instruction from a school curriculum, Beast Academy, AoPS, or another provider.
 
 ## Run
-Open [index.html](./index.html) in any modern browser, or publish this directory as static files on a hosting service. No build tools, API keys, accounts, or dependencies. Print as PDF using the browser's Print dialog.
+For most families, use the [public app link](https://vam1l.github.io/Adaptive-Learning-Lab/). Developers can also open [index.html](./index.html) in any modern browser or publish the static files elsewhere. No build tools, API keys, accounts, or dependencies. Print as PDF using the browser's Print dialog.
 
 ## What works in this alpha
 - Grade 2–6 selection; limited standard-tagged arithmetic and prerequisite skills
