@@ -15,7 +15,7 @@ An open-source, local-first parent-guided mathematics **fluency and prerequisite
 ## Run
 For most families, use the [public app link](https://vam1l.github.io/Adaptive-Learning-Lab/). Developers can also open [index.html](./index.html) in any modern browser or publish the static files elsewhere. No build tools, API keys, accounts, or dependencies. Print as PDF using the browser's Print dialog.
 
-## What works in this alpha
+## Online assessment (new)\nSelect a skill in **Online auto-graded skill check**, choose **Start assessment**, and let the student enter answers. The parent then selects **Independent**, **Prompted**, or **Taught / modeled** using the on-page definitions and presses **Grade and save**. The program displays an item-by-item answer review and stores the score locally. Select **Print administration guide** for a one-page parent reference. This is a short instructional check, not a standardized or validated diagnostic assessment.\n\n## What works in this alpha
 - Grade 2–6 selection; limited standard-tagged arithmetic and prerequisite skills
 - Print-ready 8-question screening probes and five-day differentiated worksheet packets
 - Deterministic seeded problem generation and a separate answer key
