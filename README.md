@@ -31,7 +31,12 @@ The built-in eight-question checks help choose **practice topics**, but cannot t
 
 For a research-supported screening or progress-monitoring option, see [easyCBM](https://easycbm.com/) and the [National Center on Intensive Intervention review charts](https://intensiveintervention.org/resource/academic-progress-monitoring-tools-chart). Parents should administer any external assessment directly through its authorized provider and follow its administration instructions. **We do not redistribute their questions, import their proprietary forms, or claim our scores are equivalent.** Instrument availability, eligible users, and license terms must be checked with the provider.
 
-## Online assessment (new)\nSelect a skill in **Online auto-graded skill check**, choose **Start assessment**, and let the student enter answers. The parent then selects **Independent**, **Prompted**, or **Taught / modeled** using the on-page definitions and presses **Grade and save**. The program displays an item-by-item answer review and stores the score locally. Select **Print administration guide** for a one-page parent reference. This is a short instructional check, not a standardized or validated diagnostic assessment.\n\n## What works in this alpha
+## Online assessment
+
+Select a skill in **Online auto-graded skill check**, choose **Start assessment**, and let the student enter answers. The parent then selects **Independent**, **Prompted**, or **Taught / modeled** using the on-page definitions and presses **Grade and save**. The program displays an item-by-item answer review and stores the score locally. Select **Print administration guide** for a one-page parent reference. This is a short instructional check, not a standardized or validated diagnostic assessment.
+
+## What works in this alpha
+
 - Grade 2–6 selection; limited standard-tagged arithmetic and prerequisite skills
 - Print-ready 8-question screening probes and five-day differentiated worksheet packets
 - Deterministic seeded problem generation and a separate answer key
