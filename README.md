@@ -15,6 +15,22 @@ An open-source, local-first parent-guided mathematics **fluency and prerequisite
 ## Run
 For most families, use the [public app link](https://vam1l.github.io/Adaptive-Learning-Lab/). Developers can also open [index.html](./index.html) in any modern browser or publish the static files elsewhere. No build tools, API keys, accounts, or dependencies. Print as PDF using the browser's Print dialog.
 
+## For parents: Start here
+
+**1. Choose a grade.** You do not need to know your child's exact math level yet.
+
+**2. Try a short math check.** Your child answers questions on the website. The computer checks the answers.
+
+**3. Tell us what help they needed.** Choose **On my own** (no math help), **With hints** (you gave a clue), or **With teaching** (you showed how to solve it). This matters: a correct answer with help is not the same as solving it independently.
+
+**4. Print the week's worksheets.** Practice a little each day and check progress weekly.
+
+### How accurate are the tests?
+
+The built-in eight-question checks help choose **practice topics**, but cannot tell you whether a child is officially on grade level. They have not been scientifically validated.
+
+For a research-supported screening or progress-monitoring option, see [easyCBM](https://easycbm.com/) and the [National Center on Intensive Intervention review charts](https://intensiveintervention.org/resource/academic-progress-monitoring-tools-chart). Parents should administer any external assessment directly through its authorized provider and follow its administration instructions. **We do not redistribute their questions, import their proprietary forms, or claim our scores are equivalent.** Instrument availability, eligible users, and license terms must be checked with the provider.
+
 ## Online assessment (new)\nSelect a skill in **Online auto-graded skill check**, choose **Start assessment**, and let the student enter answers. The parent then selects **Independent**, **Prompted**, or **Taught / modeled** using the on-page definitions and presses **Grade and save**. The program displays an item-by-item answer review and stores the score locally. Select **Print administration guide** for a one-page parent reference. This is a short instructional check, not a standardized or validated diagnostic assessment.\n\n## What works in this alpha
 - Grade 2–6 selection; limited standard-tagged arithmetic and prerequisite skills
 - Print-ready 8-question screening probes and five-day differentiated worksheet packets
